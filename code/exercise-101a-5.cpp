@@ -19,13 +19,14 @@ int main()
     {
         if(counter % 3 == 0)
         {
-            //Output
+            //Output 1
             printf("%d is a multiple of 3\n", counter);
             sum++;
         }
     }
 
-	printf("Between 0 and %d there are %d multiples of 3", number, sum);
+    //Output 2
+    printf("Between 0 and %d there are %d multiples of 3", number, sum);
 
     return 0;
 }
