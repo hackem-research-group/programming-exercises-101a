@@ -3,13 +3,13 @@ Compilation of Programming Exercises in C/C++ including their flowcharts in *.di
 
 Exercises included in this package:
 
-1. Create a program that receives a number N as input and shows if it is odd or even.
+* Create a program that receives a number N as input and shows if it is odd or even.
 
-2. Create a program that takes as input a vehicle's speed in km/h and shows the same speed in m/s.
+* Create a program that takes as input a vehicle's speed in km/h and shows the same speed in m/s.
 
-3. Create a program to calculate Factorial of a Number (Integer and Positive).
+* Create a program to calculate Factorial of a Number (Integer and Positive).
 
-4. Create a program to convert numeric grades according to the following table:
+* Create a program to convert numeric grades according to the following table:
 
 | Grade         | Numbers       |
 |:-------------:|:-------------:|
@@ -20,6 +20,18 @@ Exercises included in this package:
 | E             | 1 to 9        |
 
 (Assume that student grades are between 1 to 20)
+
+* Create a program that counts how many multiples of 3 exists between 0 and a number defined by the user, then print the multiples.
+
+* Create a program that receives 2 numbers and print them from highest to lowest (if possible).
+
+* Create a program to calculate the hypotenuse of a right-angled triangle knowing the  lengths of its legs.
+
+* Create a program that receives 3 numbers and stores them in 3 variables A, B y C respectively. The program should print the highest and the lowest number. The 3 numbers MUST be different, otherwise the program should show an alert.
+
+
+
+
 
 # License
 Pending
