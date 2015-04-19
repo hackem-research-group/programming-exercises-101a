@@ -7,25 +7,25 @@
 //Functions
 int main()
 {
-	//Variables
+    //Variables
     int number = 0;
 
-	//Input Data (From User)
+    //Input Data (From User)
     printf("Input a number: \n"); //Ingrese un número
     scanf("%d", &number);
 
-	//Operations
+    //Operations
     if(number % 2 == 0)
     {
-		//Output 1
+        //Output 1
         printf("The number is even"); //El número es par
     }
     else
     {
-		//Output 2
+        //Output 2
         printf("The number is odd"); //El número es impar
     }
 
-	//End of the Program
+    //End of the Program
     return 0;
 }
