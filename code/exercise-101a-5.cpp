@@ -1,5 +1,5 @@
-//5.- Crear un programa que cuente cuantos múltiplos de 3 existen entre 0 y un número definido por el usuario, luego imprimir esos múltiplos en pantalla.
-//5.- Create a program that counts how many multiples of 3 exists between 0 and a number defined by the user, then print the multiples.
+//3.- Crear un programa que cuente cuantos múltiplos de 3 existen entre 0 y un número definido por el usuario, luego imprimir esos múltiplos en pantalla.
+//3.- Create a program that counts how many multiples of 3 exists between 0 and a number defined by the user, then print the multiples.
 
 //Libraries
 #include <stdio.h>
@@ -19,6 +19,7 @@ int main()
     {
         if(counter % 3 == 0)
         {
+            //Output
             printf("%d is a multiple of 3\n", counter);
             sum++;
         }
