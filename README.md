@@ -11,7 +11,15 @@ Exercises included in this package:
 
 4. Create a program to convert numeric grades according to the following table:
 
-A = 19 and 20, B = 16, 17 and 18, C = 13, 14 and 15, D = 10, 11 y 12, E = 1 to 9. (Assume that student grades are between 1 to 20)
+| Grade         | Numbers       |
+|:-------------:|:-------------:|
+| A             | 19, 20        |
+| B             | 16, 17, 18    |
+| C             | 13, 14, 15    |
+| D             | 10, 11, 12    |
+| E             | 1 to 9        |
+
+(Assume that student grades are between 1 to 20)
 
 # License
 Pending
