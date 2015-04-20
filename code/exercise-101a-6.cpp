@@ -21,14 +21,14 @@ int main()
     if(num1 > num2)
     {
         //Output 1
-        printf("The numbers in descending order (from highest to lowest) are: ", num1, num2);
+        printf("The numbers in descending order (from highest to lowest) are: %d %d\n", num1, num2);
     }
     else
     {
         if(num1 < num2)
         {
             //Output 2
-            printf("The numbers in descending order (from highest to lowest) are: ", num2, num1);
+            printf("The numbers in descending order (from highest to lowest) are: %d %d\n", num2, num1);
         }
         else
         {
@@ -36,9 +36,6 @@ int main()
             printf("The numbers are EQUAL ");
         }
     }
-
-    //Output 2
-    printf("Between 0 and %d there are %d multiples of 3", number, sum);
 
     //End of the Program
     return 0;
