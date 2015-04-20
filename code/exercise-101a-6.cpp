@@ -40,5 +40,6 @@ int main()
     //Output 2
     printf("Between 0 and %d there are %d multiples of 3", number, sum);
 
+    //End of the Program
     return 0;
 }
