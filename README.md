@@ -1,4 +1,4 @@
-# programming-exercises-101a
+# Programming Exercises 101a
 Compilation of Programming Exercises in C/C++ including their flowcharts in *.dia and *.png (created using Dia Diagram Editor).
 
 Exercises included in this package:
@@ -28,9 +28,6 @@ Exercises included in this package:
 * Create a program to calculate the hypotenuse of a right-angled triangle knowing the  lengths of its legs.
 
 * Create a program that receives 3 numbers and stores them in 3 variables A, B y C respectively. The program should print the highest and the lowest number. The 3 numbers MUST be different, otherwise the program should show an alert.
-
-
-
 
 
 # License
